@@ -1,1 +1,1 @@
-Displays current in long format
+Displays both hidden and in long format

@@ -1,1 +1,1 @@
-Displays both hidden and in long format
+Displays Long format, Group IDs and hidden files (starting with .)

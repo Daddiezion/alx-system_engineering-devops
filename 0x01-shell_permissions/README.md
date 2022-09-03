@@ -1,1 +1,1 @@
-execute permission
+execute permission to file "hello"

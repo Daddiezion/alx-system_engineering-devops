@@ -1,3 +1,1 @@
-script adds execute permission to the owner of the file "
-
-hello"
+adds execute permission to file hello

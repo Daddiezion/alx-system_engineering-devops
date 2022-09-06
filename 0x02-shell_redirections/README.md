@@ -1,1 +1,1 @@
-prints Hello World then new line to the standard output
+Move betty from /tmp/ to /tmp/my_first_directory

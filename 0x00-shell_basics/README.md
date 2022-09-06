@@ -1,1 +1,1 @@
-Removing myFD from tmp
+Removing betty

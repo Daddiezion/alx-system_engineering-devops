@@ -1,1 +1,1 @@
-remove betty from /tmp/my_first_directory
+Removing myFD from tmp

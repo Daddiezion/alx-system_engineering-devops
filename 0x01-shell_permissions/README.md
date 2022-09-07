@@ -1,1 +1,1 @@
-script executes permission to all subordinate directories of current directory
+script that creates a directory called my_dir with permissions 751

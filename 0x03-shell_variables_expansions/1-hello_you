@@ -1,2 +1,2 @@
 #!/bin/bash
-hello user | alias user="root"
+hello alias user="root"
